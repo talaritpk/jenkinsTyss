@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Sauce Labs Backpack]]>
+    </line>
+    <line>
+      <![CDATA[Sauce Labs Bike Light]]>
+    </line>
+    <line>
+      <![CDATA[Sauce Labs Bolt T-Shirt]]>
+    </line>
+    <line>
+      <![CDATA[Sauce Labs Fleece Jacket]]>
+    </line>
+    <line>
+      <![CDATA[Sauce Labs Onesie]]>
+    </line>
+    <line>
+      <![CDATA[Test.allTheThings() T-Shirt (Red)]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-10T12:17:59 IST" name="Default suite" finished-at="2023-01-10T12:18:03 IST" duration-ms="3812">
+    <groups>
+      <group name="regression">
+        <method signature="GetAllProductDataTest.getAllDataTest()[pri:0, instance:saucedemoTests.GetAllProductDataTest@1d2adfbe]" name="getAllDataTest" class="saucedemoTests.GetAllProductDataTest"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2023-01-10T12:17:59 IST" name="Default test" finished-at="2023-01-10T12:18:03 IST" duration-ms="3812">
+      <class name="saucedemoTests.GetAllProductDataTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:saucedemoTests.GetAllProductDataTest@1d2adfbe]" started-at="2023-01-10T12:17:59 IST" name="bsConfig" finished-at="2023-01-10T12:17:59 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:saucedemoTests.GetAllProductDataTest@1d2adfbe]" started-at="2023-01-10T12:17:59 IST" name="bcConfig" finished-at="2023-01-10T12:18:02 IST" duration-ms="2774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:saucedemoTests.GetAllProductDataTest@1d2adfbe]" started-at="2023-01-10T12:18:02 IST" name="bmConfig" finished-at="2023-01-10T12:18:02 IST" duration-ms="480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="getAllDataTest()[pri:0, instance:saucedemoTests.GetAllProductDataTest@1d2adfbe]" started-at="2023-01-10T12:18:02 IST" name="getAllDataTest" finished-at="2023-01-10T12:18:02 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sauce Labs Backpack]]>
+            </line>
+            <line>
+              <![CDATA[Sauce Labs Bike Light]]>
+            </line>
+            <line>
+              <![CDATA[Sauce Labs Bolt T-Shirt]]>
+            </line>
+            <line>
+              <![CDATA[Sauce Labs Fleece Jacket]]>
+            </line>
+            <line>
+              <![CDATA[Sauce Labs Onesie]]>
+            </line>
+            <line>
+              <![CDATA[Test.allTheThings() T-Shirt (Red)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getAllDataTest -->
+        <test-method is-config="true" signature="baConfig()[pri:0, instance:saucedemoTests.GetAllProductDataTest@1d2adfbe]" started-at="2023-01-10T12:18:02 IST" name="baConfig" finished-at="2023-01-10T12:18:02 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:saucedemoTests.GetAllProductDataTest@1d2adfbe]" started-at="2023-01-10T12:18:02 IST" name="acConfig" finished-at="2023-01-10T12:18:03 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+      </class> <!-- saucedemoTests.GetAllProductDataTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
